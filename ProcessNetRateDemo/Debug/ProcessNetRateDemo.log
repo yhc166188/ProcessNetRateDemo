@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  SingleLock.cpp
+  ProfileItem.cpp
+  ProcessModel.cpp
+  ProcessCache.cpp
+  PortCache.cpp
+  VirtualSource.cpp
+  PcapSource.cpp
+  ProcessNetRateDemo.cpp
+d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(244): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+  d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(244): note: 请考虑在格式字符串中使用“%llu”
+  d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(244): note: 请考虑在格式字符串中使用“%I64u”
+d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(244): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“unsigned __int64”
+  d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(244): note: 请考虑在格式字符串中使用“%llu”
+  d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(244): note: 请考虑在格式字符串中使用“%I64u”
+d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(303): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(304): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(368): warning C4778: “printf”: 格式字符串“%\n”未终止
+d:\work\project\vs_project\vs_project_test\processnetratedemo\processnetratedemo\processnetratedemo.cpp(372): warning C4101: “procId”: 未引用的局部变量
+  CpuCheck.cpp
+  正在生成代码...
+  ProcessNetRateDemo.vcxproj -> D:\work\project\vs_project\vs_project_test\ProcessNetRateDemo\Debug\ProcessNetRateDemo.exe
+  ProcessNetRateDemo.vcxproj -> D:\work\project\vs_project\vs_project_test\ProcessNetRateDemo\Debug\ProcessNetRateDemo.pdb (Full PDB)
